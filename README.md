@@ -1,2 +1,2 @@
 # Facebook
-Pagina de Login do Facebook, aproximadamente igual!
+Pagina de Login do Facebook. Aproximadamente igual!
